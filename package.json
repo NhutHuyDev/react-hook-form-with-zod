@@ -1,5 +1,5 @@
 {
-  "name": "react-form-without-lib",
+  "name": "react-hook-form-with-zod",
   "private": true,
   "version": "0.0.0",
   "type": "module",
